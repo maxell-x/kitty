@@ -1,2 +1,2 @@
 # kitty
-kitty terminal config
+personalizing kitty terminal config
